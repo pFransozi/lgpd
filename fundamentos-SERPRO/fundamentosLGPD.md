@@ -175,3 +175,69 @@ Estão no contrato, as obrigações entre as partes, os direitos de uma em face 
 
 Por exemplo, eu presto serviço de help desk e para prestar esse serviço preciso saber, digamos: nome, CPF, a cidade de residência do titular. São elementos necessários à prestação dos  serviços. Olhando pelo lado do titular, é razoável imaginar que a sua legítima expectativa comporte essa necessidade. **Mas se eu peço, além disso, renda, prole, padrão de consumo, endereço físico, não é razoável pensar que isso atenda ao legítimo interesse**. Parece mais, nesse caso, que nós temos aí uma outra finalidade obscura, desvalorizando então, o princípio da adequação, que é um princípio importante na
 LGPD.
+
+### dados pessoais sensívels
+
+Dados pessoais sensíveis são sobre: 
+* origem racial ou étnica, 
+* convicção religiosa, 
+* opiniãoo política, 
+* filiação a sindicato ou a organização de caráter religioso, filosófico ou político, 
+* dados referentes à saúde, à vida ou orientação sexual, 
+* dados genéricos ou biométricos, quando vinculados a uma pessoa natural
+
+Em geral: caso expostos ou compartilhados, pode causar impacto na vida pessoal ou profissional. A sensibilidade reside tanto no enorme potencial de lesividade desses dados, quanto no interesse que suscitam para os negócios.
+
+São oito hipóteses previstas na lei:
+1. mediante consentimento para finalidades específicas
+2. cumprimento de obrigação legal ou regulatória pelo controlador
+3. compartilhamento de dados necessários à execução de políticas públicas
+4. realização de estudos por orgão de pesquisa, garantida, sempre que possível, que os dados pessoais permaneçam anônimos.
+5. exercício regular de direitos
+6. proteção da vida ou da integridade física do titular ou de terceiros.
+7. tutela da saúde
+8. garantia da prevenção à fraude e à segurança do titular
+
+**As hipóteses de tratamento de Dados Sensíveis são mais restritas que a de Dados Pessoais, sendo excluídos "Execução de Contrato", "Interesse Legítimo" e "Proteção ao Crédito".**
+
+A lei veda:
+* pelas operadoras de planos privados de assistência á saúde o tratamento de dados de saúde para a prática de seleção de riscos na contratação de qualquer modalidade;
+* pelos controladores de dados pessoais sensíveis referentes à saude é vedado o compartilhamento ou comunicação com o objetivo de obter vantagem econômica
+  * exceto em serviços na área da saúde, assistência farmacêutica, assistência à saúde (diagnósticos e terapias), mas sempre em benefício dos titulares dos dados
+    * a portabilidade de dados, quando solicitado pelo titular
+    * as transações financeira e administrativas resultantes do uso e da pretação dos serviços de que trata este parágrafo.
+
+#### Tratamento de dados pessoais sensíveis
+
+Dados pessoais sensíveis são aqueles que ostentam maior carga de lesividade ou maior risco de dano ao direito do titular. Estão incluídos aqui as opções político-filosóficas, as opções políticas, sindicais, as filiações a ideais sindicais ou  políticas, as opções sexuais, a biometria, entre outros.
+
+No caso dos dados pessoais sensíveis, o legislador foi mais arrojado em relação à proteção do titular. Em matéria de dados pessoais sensíveis, **há apenas duas hipóteses: o consentimento - e não havendo consentimento sete outras possibilidades, todas excepcionais, e quase todas essas sete possibilidades estão contidas entre as dez possibilidades de tratamento original**. 
+Apenas a prevenção à fraude está presente somente aqui, nos dados sensíveis, mas as demais, as outras seis estão presentes entre aquelas 10 hipóteses de tratamento. Mas aqui sim, como uma exceção ao consentimento. Porque? Porque o dado pessoal sensível, como nós dissemos, tem uma carga maior de risco, uma possibilidade maior de lesividade aos direitos e aos interesses do titular.
+
+#### dados de crianças e adolescentes
+
+Há regimes diferentes para crianças e adolescentes.
+
+Criança é a pessoa com idade de até doze anos incompletos, e adolescente é aquela entre doze e dezoito anos de idade (Estatuto da Criança e Adolescente, Art. 2º).
+
+O tratamento de dados pessoais de crianças e adolescentes, naqueles casos em que **a base legal seja o consentimento**, deve ser realizado **com o consentimento específico e em destaque emitido por pelo menos um dos pais ou pelo responsável legal**. 
+
+No tratamento de dados de crianças e adolescentes com fundamento **em outras bases legais**, **as restrições gerais do Estatuto e do Código Civil prevalecem em relação ao menor de idade**. Por exemplo: 
+
+* Na execução de contrato o menor deve ser representado por seu responsável;
+* Nos tratamentos por força de Lei devem ser respeitadas as condições específicas no tocante a menores; 
+* No caso de legítimo interesse, a legítima expectativa a ser avaliada deve levar em conta o ponto de vista do representante do menor, enquanto tal.
+
+A Lei, entretanto, traz exceção à regra acima mencionada, de forma que **os dados pessoais de crianças poderão ser eventualmente tratados sem o consentimento exigido pela lei quando necessário para contatar os pais ou responsáveis legais, a fim de garantir a proteção da criança ou adolescente**, desde que sejam utilizados **uma única vez e sem armazenamento**, e **em nenhum caso poderão ser repassados a terceiros**.
+
+A participação desses Titulares (crianças e adolescentes) em jogos, aplicações de internet ou outras atividades também não deve ser condicionada ao fornecimento de informações pessoais além das estritamente necessárias à atividade.
+
+Na hipótese de seus dados serem tratados com base em consentimento, esse consentimento deve ser o consentimento do pai ou do responsável pelo menor, basicamente isso. Há outras disposições legais, mas esse é o núcleo do capítulo específico de crianças e adolescentes na LGPD. 
+Uma das críticas que faz a essa disposição é que a LGPD não diferenciou muito criança de adolescente. Ela tratou de forma plana a necessidade de consentimento paterno ou do representante legal, nas hipóteses de consentimento. 
+Claro que as outras vão ser tratadas na sua especificidade: a execução de contrato, a representação do menor é aquela ordinária estabelecida no ECA - Estatuto da Criança e do Adolescente. 
+Outra crítica que se faz é que a verificação da veracidade desse consentimento do responsável não ficou bem tratada na Lei, como ficou tratado no COPPA, que é a lei Norte Americana correspondente a essa disposição relativa a dados de menores. 
+Na nossa Lei isso ficou tratado pelo critério do “razoável esforço” por parte de quem é obrigado a identificar se há esse consentimento paterno. 
+Já os idosos não têm um tratamento diferenciado. A lei apenas prevê - e a ANPD tem entre suas atribuições - garantir que o tratamento desses dados de idosos seja efetuado de maneira simples, clara, acessível e adequada a sua compreensão.
+
+### Compartilhamento e transferência de dados
+
