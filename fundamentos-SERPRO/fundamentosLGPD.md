@@ -241,3 +241,150 @@ Já os idosos não têm um tratamento diferenciado. A lei apenas prevê - e a AN
 
 ### Compartilhamento e transferência de dados
 
+
+## Privacidade dos dados
+
+Todos os agentes de tratamento, ao lidar com dados pessoais, devem garantir sempre que possível e nas situações previstas na lei, **a segurança e a privacidade dos dados**.
+
+* **Privacy by design**: é o emprego de mecanismos e soluções de privacidade **durante todo o ciclo de vida do desenvolvimento do sistema** ou da **organização dos serviços em que os dados serão tratados**.
+* **privacy by default**: é a obrigatoriedade de que todas essas ferramentas estejam acionadas como padrão e que as medidas destinadas a garantir privacidade ao Titular não contradigam a lógica de padrão, ou seja, **não deve haver prevalência dos interesses dos agentes de tratamento sobre os interesses dos titular dos dados tratados**.
+
+Estabelecer como **configuração padrão a maior privacidade possível ao titular dos dados**, ou seja, **em duas situações ambíguas**, **prevalece sempre a situação que melhor atenda aos interesses do titular dos dados**.
+
+Nesse sentido: devem, os agentes de tratamento, **desde a concepção do produto ou do serviço**, até a sua execução, adotar medidas de segurança, técnicas ou administrativas, a fim de:
+* proteger os dados pessoais de acessos não autorizados 
+* e de situações acidentais
+* ou ilícitas de destruição,
+* perda, 
+* alteração, comunicação ou qualquer forma de tratamento inadequada ou ilícita (Art. 46, &2).
+
+### Equilíbrio entre tratamento e segurança dos dados
+
+Tanto é importanto proteger o dado pessoal quanto é importante a economia digital funcionar. O tráfego, o circuito da economia digital precisa funcionar adequandamente.
+É assim também em segurança da informação: ninguém busca uma confidencialidade a qualquer custo. EM SI, é buscado uma confidencialidade com disponibilidade, integridade e autoria da informação porque a informação precisa circular.
+Na LGPD: é preciso que a informação tanto seja protegida, que o dado
+pessoal seja protegido, mas que a economia digital, os negócios, enfim, as relações
+interpessoais funcionem adequadamente
+
+### Segurança da informação
+
+A privacidade e o tratamento de dados pessoais deve alinhar-se com os domínios (i) da segurança da informação, (ii) das boas práticas e (iii) da governança de privacidade.
+
+#### segurança da informação
+
+Segurança da informação é um conjunto de técnicas relacionadas à informação de tal modo que busque garantir os seguintes atributos: confidencialidade, disponibilidade, integridade e autoria (ou não repúdio)
+
+**Uma informação guardada a sete chaves em um baú de aço no fundo do mar abissal pode até parecer segura, mas não constitui "informação" em si mesma!**
+
+Deve-se controlar adequadamente os atributos acima:
+
+* confidencialidade: limitar o acesso tão somente às entidade legítimas, as que são autorizadas. Assim, o acesso a dados pessoais por entidades ou pessoas não autorizadas configura-se como violação de segurança desses dados, além de incidente de segurança.
+* disponibilidade: estar pronta para o uso na medida das necessidades
+* integridade: certeza de que não foi adulterada
+* autoria: certeza de que não foi produzida por outrem e certeza de que foi produzida por seu verdadeiro autor
+
+Outras características estendidas:
+
+* Irretratabilidade ou não repúdio - impossibilidade de se negar autoria (provar) sobre a execução de transação
+* Privacidade - manter anônimo o usuário
+* Legalidade - esteja aderente à legislação pertinente
+* Auditoria - capacidade de auditar tudo o que foi realizado pelos usuários
+* Autenticação - processo de identificação e reconhecimento, ou seja, é de fato quem alega ser
+* Autenticidade - garantia de que a informação é proveniente da fonte anunciada (origem) e que não foi alvo de mutações ao longo de um processo
+* Autorização ou consentimento - concessão livre, informada e inequívoca pelo titular para acesso de pessoas ou entidades autorizadas e capacitadas para o uso adequado e tratamento de seus dados pessoais, para uma ou mais finalidades determinadas
+
+Os domínios de segurança da informação diferem entre os modelos e frameworks disponíveis, mas de modo geral estão relacionados às seguintes rubricas:
+
+1. Governança de Segurança da Informação
+2. Segurança de Ativos (incluindo “classificação”)
+3. Gestão, Risco e Conformidade de SI
+4. Gestão de Continuidade do Negócio
+5. Segurança de Comunicação e Infraestrutura de Rede (incluindo controle de acesso e gestão de identidade)
+6. Operações de segurança (incluindo tratamento de incidentes, recuperação de desastres, forense computacional)
+7. Segurança de Dados (incluindo Criptografia) e
+8. Desenvolvimento Seguro.
+
+#### Boas Práticas
+
+As boas práticas não são uma rúbrica subjetiva, mas são determinadas por procedimentos já testados e aprovados pela indústria ou orgões de compliance
+
+* Adoção de um programa consistente de segurança, privacidade e governança de dados
+* Definição de políticas específicas (Segurança da informação, Privacidade, Continuidade de Negócio e Comunicação)
+* Adoção de normas, padrões e baselines
+* Definição de procedimentos (por exemplo, procedimentos de forense computacional, procedimentos de gestão de mudança, procedimentos de atualização de patches)
+* Tratamento de reclamações de titulares
+* Ações de educação, de treinamento e de conscientização
+* Mecanismos de supervisão
+* Procedimentos de tratamento e mitigação de riscos etc. 
+
+#### Governança de Privacidade
+
+Ter governança significa estabelecer um modelo de funcionamento que garanta direcionamento, comunicação, clareza de papéis, conhecimento geral do negócio e responsabilidade proativa (accountability).
+
+Implantar governança significa eliminar o espaço para a fala dos maus gestores que, em passado recente (escândalos da Enron, da Arthur Andersen e outros), quando interpelados sobre o porquê daquele desmando identificado, respondiam “eu não sabia! Quem cuidava disso eram os contadores, ou os departamentos financeiros”.
+
+**Onde há governança não há espaço para o “eu não sabia”.** **Accountability não é moda passageira, mas constitui verdadeiro fim a ser perseguido em qualquer modelo conduzido por adultos responsáveis**.
+
+* Diretriz de Segurança Lógica (políticas de senha, sistemas de autenticação de usuário, programa de detecção de vírus);
+* Normas de Classificação, Anonimização e Criptografia da Informação;
+* Política Corporativa de Governança de Dados;
+* Política Corporativa de Segurança da Informação;
+* Política Corporativa de Privacidade e Proteção de Dados;
+* Plano de Resposta a Incidente e Remediação; 
+* Plano de Continuidade de Serviços e Negócios; 
+* Plano de Contingência;
+* Plano de Comunicação, Treinamento e Conscientização sobre Segurança da Informação, Privacidade e Proteção de Dados; e
+* Programa de Governança em Privacidade e Proteção de Dados.
+
+### LGPD e penalidades
+
+#### Vazamento ou violação de Dados
+
+O controlador deverá **comunicar tanto ao titular quanto à ANPD sobre a ocorrência de algum incidente de segurança** que venha a resultar em risco ou dano relevante ao titular. 
+
+“A LGPD é uma legislação, também, para proteção de patrimônio e de reputação” (Patrícia Peck).
+
+Cabe ao encarregado designado pelo Controlador, em situações de violação de segurança ou vazamento de dados, implementar procedimentos ou práticas de segurança da informação/segurança cibernética, políticas e programa PD&D, que implicam notificar a diretoria da organização, a área de comunicação e inclusive solicitar forense computacional.
+
+**Essa comunicação será devida nos casos em que dados pessoais tenham vazado, acidental ou ilicitamente, a destinatários não autorizados, ou quando fiquem temporária ou permanentemente indisponíveis, ou ainda quando sejam alterados.**
+
+#### Responsabilidades
+
+Caso o tratamento de dados pessoais não ocorra de acordo com a LGPD, quem será responsabilizado?
+
+Conforme o caso, tanto o controlador quanto o operador poderão responder conjuntamente ou individualmente no âmbito administrativo, sofrendo as sanções impostas pela Autoridade de forma individual ou articulada.
+
+##### Sanções Administrativas
+
+As sanções administrativas, previstas na nova Lei, válidas tanto ao controlador, quando este falte com as suas responsabilidade, quanto ao operador, são as seguintes:
+
+1. advertência, com a indicação de prazo para adoção de medidas corretivas;
+2. multa simples de até 2% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil, no último exercício, excluídos os tributos e limitada a R$ 50.000.000,00, por infração;
+3. multa diária, observado o limite total a que se refere o inciso anterior;
+4. publicização da infração, após apuração e confirmação;
+5. bloqueio dos dados pessoais a que se refere a infração até a sua regularização;
+6. eliminação dos dados pessoais a que se refere a infração. 
+
+#### Sanções Cíveis e Penais
+
+Independentemente das sanções administrativas, **a conduta dos agentes de tratamento poderá ensejar danos materiais ou cometimento de crimes e**, nesses casos, sanções judiciais poderão se sobrepor às administrativas, tanto em relação aos agentes como em relação às pessoas de seus quadros societários ou profissionais.
+
+Um elemento importante de se compreender é que **a responsabilidade, em matéria de privacidade,** **não é “objetiva” (aquela que depende apenas de haver o ato lesivo e de haver o efetivo dano à parte prejudicada)**. **A responsabilidade aqui é subjetiva e depende de se identificar a existência de culpa ou dolo por parte do agente de tratamento**. 
+
+No entanto, se a responsabilidade do agente tangenciar relações de consumo, a regra de responsabilidade se dará em conformidade com o direito consumerista (Direito do Consumidor) e, portanto, se passará a tratar a responsabilidade pelo critério objetivo, típico desse tipo de relação. 
+
+###  LGPD e demais leis
+
+A proteção de dados e privacidade é um sistema complexo de comandos e diretrizes que não se restringem à LGPD, mas estabelece um diálogo com inúmeros outros marcos legais, como a LAI - Lei de Acesso à Informação, o Código de Proteção e Defesa do Consumidor, as Políticas Nacionais de Segurança da Informação e de Proteção de Infraestruturas Críticas, a Lei do Cadastro Positivo, o Marco Civil da Internet, a Lei de Crimes Cibernéticos, a Lei das Estatais, e tantas outras. 
+
+![alt](./images/lgpdEDemaisLeis.png)
+
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm (LGPD)
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9573.htm (Política nacional de infraestruturas críticas)
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12414.htm (cadastro positivo)
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm (LAI)
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm (leis de crimes cibernéticos)
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm (marco civil da internet)
+https://www.planalto.gov.br/ccivil_03/leis/l8078.htm (código de defesa do consumidor)
+http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm (leis das estatais)
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9637.htm (política nacional de segurança da informação)
