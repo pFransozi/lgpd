@@ -1,55 +1,55 @@
 # Fundamentos da LGPD
 
-Notas feitas a partir do curso  Fundamentos da LGPD, disponível em https://www.escolavirtual.gov.br/curso/603
+Notas feitas a partir do curso Fundamentos da LGPD, disponível em https://www.escolavirtual.gov.br/curso/603
 
 ## Conceitos básicos
 
-### o que é
+### O que é?
 
-LGPD regulamenta o tratamento de dados pessoais
-  * objetivos: proteger a liberdade, privacidade, intimidade e o livre desenvolvimento da personalidade da pessoa natural (o títular dos dados)
-  * mas também garantir o adequado fluxo de dados, o direito à informação, à liberdade de expressão, prenitude e a saúde da economia digital e informacional
+A LGPD regulamenta o tratamento de dados pessoais, **com o objetivo de**, por um lado, (i) proteger a liberdade, privacidade, intimidade e o livre desenvolvimento **da personalidade da pessoa natural** (o títular dos dados), mas também, (ii) garantir o adequado fluxo de dados, o direito à informação, à liberdade de expressão, prenitude e a saúde **da economia digital e informacional**.
 
-### a quem se aplica
+### A quem se aplica?
 
-* a qualquer operação de tratamento de dados realizada por pessoa natural ou física, por empresa pública ou privada, com o objetivo de ofertar bens e serviços ou de fornecer o serviço de tratamento de dados em si
-* não é apenas tratamento digital
-  * esta lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais
+A LGPD aplica-se a qualquer operação de tratamento de dados realizada por pessoa natural ou física, por empresa pública ou privada, com o objetivo de ofertar bens e serviços ou de fornecer o serviço de tratamento de dados em si. Importante observar que não é apenas um tratamento digital, **mas a lei dispõe sobre o tratamento de dados pessoais, inclusive os feitos por um meio digital**.
 
-### datas
+### Datas?
 
-* vigora desde agosto 2020
-* sanções desde agosto de 2021
+* Vigora desde agosto 2020
+* Sanções desde agosto de 2021
 
-## conceitos e definições
+## Conceitos e Definições
+
+O principal objeto sobre o qual recai a lei é o **dado**. São dois os tipos de dados:
 
 * **dado pessoal**: qualquer informação que possa levar à identificação de uma pessoa natural (titular), como: nome, endereço, e-mail, identidade, CPF, dados de localização, endereço de IP do computador e outros.
 
-* **dado pessoal sensível**: qualquer informação que possa causar impacto mais relevante na vida pessoal e/ou profissional, caso seja exposta ou compartilhada, tais como: dado de origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou organização de caráter religioso, filosófico ou político, dado referente à saúde, à vida ou orientação sexual, dado genético ou biométrico
+* **dado pessoal sensível**: qualquer informação que possa causar impacto mais relevante na vida pessoal e/ou profissional, caso seja exposta ou compartilhada, tais como: dado de origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou organização de caráter religioso, filosófico ou político, dado referente à saúde, à vida ou orientação sexual, dado genético ou biométrico.
 
-* **tratamento de dados**: o tratamento abrange um amplo conjunto de operações efetuadas sobre dados pessoais, por meios manuais ou automatizados. Inclui: coleta, registro, organização, alteração, consulta, utilização, divulgação, bloqueio, destruição.
+Em ambos os casos, exposições dos dados de modo não legível, não poderá levar a identificação do titular, nem a danos pessoais e/ou profissionais.
 
-* atores
-  * titular: é a pessoa natural, o ser humano a quem se referem os dados pessoais que são objeto de tratamento: criança, adulto ou idoso
-  * controlador: pessoal natural ou jurídica responsável pelo tratamento dos dados pessoais, que deve definir a hipótese legal, a finalidade e o modo como esses dados serão tratados por ele mesmo ou por quem ele designar para fazer esse tratamento. (No regulamento europeu, o controlador é chamado "responsável")
-  * operador: pessoa jurídica (em geral) ou pessoa natural/física, que realiza o tratamento de dados pessoais em nome do controlador. É possível que um controlador seja ao mesmo tempo o operador responsável pela execução do tratamento. (Em leis EUA e UE, operador é chamado de processador)
-  * agente de tratamento: controlador e operador são agentes de tratamento
-  * encarregado: **é o DPO (data protection officer)**, é uma pessoa natural indicada pelo controlador ou pelo operador para ser a ponte entre esses agentes de tratamento e os títulares dos dados, e também entre os agentes de tratamento e a ANPD. O encarregado também é responsável por orientar os funcionários do controlador sobre as práticas de tratamento de dados.
-  * ANPD: autoridade nacional de proteção de dados, orgão da adminsitração pública responsável por zelar, implementar e fiscalizar o cumprimento dos dispositivos e a aplicação dos princípios e fundamentos da LGPD. Também é a instância responsável pela aplicação das sanções previstas na LGPD.
+* **tratamento de dados**: o tratamento abrange um amplo conjunto de operações efetuadas sobre dados pessoais, **por meios manuais ou automatizados**. Inclui: coleta, registro, organização, alteração, consulta, utilização, divulgação, bloqueio, destruição.
 
-## direitos do titular
+### Quem é quem?
 
-O titular dos dados é o protagonista da LGPD. Nesse sentido a LGPD define o regramento sobre como os agentes de tratamento podem obter, separar, classificar ou trabalhar os dados pessoais de alguém **para ofertar ou entregar** serviços e produtos que pretendam melhorar a vida dessa pessoa ou da sociedade como um todo.
+* **titular**: aquele, pessoa natural, a quem os dados, objeto de tratamento, se referem, seja criança, adulto ou idoso.
+* **controlador**: **pessoal natural ou jurídica** **responsável pelo tratamento dos dados pessoais**, **que deve definir** a hipótese legal, a finalidade e o modo como esses dados serão tratados por ele mesmo ou por quem ele designar para fazer esse tratamento. No regulamento europeu, o controlador é chamado "responsável".
+* **operador**: pessoa jurídica (em geral) ou pessoa natural/física, **que realiza o tratamento de dados** pessoais em nome do controlador. É possível que um controlador seja ao mesmo tempo o operador responsável pela execução do tratamento. Em leis EUA e UE, operador é chamado de processador.
+* **agente de tratamento**: controlador e operador são agentes de tratamento.
+* **encarregado**: **é o DPO (data protection officer)**, é uma **pessoa natural** indicada pelo controlador ou pelo operador **para ser a ponte entre esses agentes de tratamento e os títulares dos dados**, e também entre os agentes de tratamento e a ANPD. O encarregado também é responsável por orientar os funcionários do controlador sobre as práticas de tratamento de dados.
+* **ANPD**: **autoridade nacional de proteção de dados**, orgão da adminsitração pública responsável por zelar, implementar e fiscalizar o cumprimento dos dispositivos e a aplicação dos princípios e fundamentos da LGPD. Também é a instância responsável pela aplicação das sanções previstas na LGPD.
 
-Ou seja, a LGPD determina um domínio dos dados, os quais estão vinculados à pessoa. E os agentes de tratamento interagem com esse domínio (obter, separar, classificar, trabalhar) com algum finalidade (ofertar ou entregar serviços/produtos que melhorem a vida da pessoa ou da sociedade)
+## Direitos do Titular
+
+A LGPD define o regramento sobre como os agentes de tratamento podem obter, separar, classificar ou trabalhar **os dados pessoais do titular dos dados** **para ofertar ou entregar** serviços e produtos que pretendam melhorar a vida dessa pessoa ou da sociedade como um todo. 
+Existe um domínio dos dados, os quais vinculam-se ao titular, com os quais os agentes de tratamento interegem através de inúmeras ações (obter, separar, classificar, trabalhar) sem determinado a partir de uma finalidade (ofertar ou entregar serviços/produtos que melhorem a vida da pessoa ou da sociedade)
 
 ### 10 bases legais para o tratamento de dados pessoais
 
-São 10 bases legais, pelas quais o tratamento de dados pessoais é possível. Fora delas, torna-se ilegal e implica violação de dados. Essas bases estão vinculadas aos direitos do titular.
+**Existe um âmbito para o tratamento dos dados pessoais**, o qual é determinado por 10 bases legais. Dentro desse âmbito **o tratamento dos dados é possível**, fora dele torna-se ilegal e implica violação dos dados. Essas bases estão vinculadas aos direitos do titular dos dados pessoais.
 
-Sendo assim, os direitos do titular devem ser atendidos pelo controlador. Ele precisa definir os requisitos por meio dos quais esses direitos serão cumpridos, sempre que necessário, com simplicidade, rapidez e qualidade.
+Nesse sentido, **os direitos do titular devem ser atendidos pelo controlador**. Ele, o controlador, precisa definir os requisitos por meio dos quais esses direitos serão cumpridos, sempre que necessário, com simplicidade, rapidez e qualidade.
 
-1. solicitar anonimização (usar meios técnicos razoáveis e disponíveis no momento do tratamento, de forma que um dado pessoal não possa ser associado direta ou indiretamente a um indivíduo, tornando-o anônimo) dos seus dados, quando eles forem coletados de forma desnecessária, excessiva, ou em desconformidade com a LGPD. Além de pedir, em determinados casos, o bloqueio ou a eliminação desses dados tratados em desacordo com a lei (**decorrência do direito ao esquecimento**). (Art. 18, IV)
+1. solicitar anonimização dos dados, quando eles forem coletados de forma desnecessária, excessiva, ou em desconformidade com a LGPD. Além de pedir, em determinados casos, o bloqueio ou a eliminação desses dados tratados em desacordo com a lei (**decorrência do direito ao esquecimento**). (Art. 18, IV) (**anonimização** significa usar meios técnicos razoáveis e disponíveis no momento do tratamento, de forma que um dado pessoal não possa ser associado direta ou indiretamente a um indivíduo, tornando-o anônimo)
 2. receber confirmação sobre tratamento de seus dados e ser informado sobre seus dados (Art. 18, I)
 3. ter acesso ao conjunto de informações sobre o tratamento de seus dados, inclusive no tocante a finalidade, modo, identificação do controlador, uso compartilhado de seus dados, responsabilidade dos agentes (Arts. 9, 18, II)
 4. solicitar correção ou atualização dos seus dados, como atributo de qualidade no tratamento dos dados pessoais (Art. 18, III)
@@ -65,7 +65,9 @@ De qualquer forma, é importante ter em mente que, para a LGPD, **violar dados n
 ### O sentido do consentimento pelo Titular
 
 **Não é verdade que os nossos dados somente serão tratados se dermos nosso consentimento**. Eles podem ser tratados se a lei dispuser nesse sentido, se nós firmamos um contrato com alguém, ou se houver legítimo interesse entre um prestador de serviços e um tomador desses serviços. 
-**Se o consentimento fosse tão importante, não haveria nove outras possibilidades de tratamento e elas não precederiam, na verdade, na inteligência do tratamento de dados, ao consentimento**. O que a lei traz de importante não é o consentimento, **mas os direitos que o titular detém**, **independentemente de lhe ter sido pedido ou não um consentimento para tratar aqueles dados**. Independentemente da base legal que seja adotada, o titular tem um conjunto de direitos que precisam ser respeitados e é isso que é importante na lei e na modificação que ela trouxe para o ordenamento jurídico atual.
+**Se o consentimento fosse tão importante, não haveria nove outras possibilidades de tratamento e elas não precederiam, na verdade, na inteligência do tratamento de dados, ao consentimento**. O que a lei traz de importante não é o consentimento, **mas os direitos que o titular detém**, **independentemente de lhe ter sido pedido ou não um consentimento para tratar aqueles dados**. 
+
+Aqui está a chave da LGPD: Independentemente da base legal que seja adotada, **o titular tem um conjunto de direitos que precisam ser respeitados e é isso que é importante na lei e na modificação que ela trouxe para o ordenamento jurídico atual**.
 
 ## relações e atribuições
 
@@ -73,14 +75,14 @@ De qualquer forma, é importante ter em mente que, para a LGPD, **violar dados n
 
 ### competências da ANPD
 
-A ANPD não tem apenas a função de fiscalizar e punir. A Autoridade Nacional de Proteção de Dados tem a responsabilidade de 
-* zelar pela proteção de dados, 
-* elaborar diretrizes para a Política Nacional de Proteção de Dados, 
-* apreciar e processar petições dos titulares, 
-* disseminar o conhecimento sobre privacidade para o grande público, 
-* realizar estudos sobre as práticas de privacidade no Brasil e no mundo, 
-* desenvovler formas simplificadas para o registro de reclamações sobre o tratamento de dados pessoais.
-* articular-se com as autoridades reguladoras públicas para exercer suas competências em setores específicos de atividades econômicas e governamentais sujeitas à regulação. Essa  articulação deverá se dar com os PROCONS, com as Agências Reguladoras, com as associações de defesa dos consumidores em seus diversos setores de atividade.
+A ANPD não tem apenas a função de fiscalizar e punir. A Autoridade Nacional de Proteção de Dados tem a responsabilidade de: 
+* zelar pela proteção de dados
+* elaborar diretrizes para a Política Nacional de Proteção de Dados
+* apreciar e processar petições dos titulares
+* disseminar o conhecimento sobre privacidade para o grande público
+* realizar estudos sobre as práticas de privacidade no Brasil e no mundo
+* desenvovler formas simplificadas para o registro de reclamações sobre o tratamento de dados pessoais
+* articular-se com as autoridades reguladoras públicas para exercer suas competências em setores específicos de atividades econômicas e governamentais sujeitas à regulação. Essa articulação deverá se dar com os PROCONS, com as Agências Reguladoras, com as associações de defesa dos consumidores em seus diversos setores de atividade.
 
 
 ## tratamento de dados
@@ -89,50 +91,48 @@ A ANPD não tem apenas a função de fiscalizar e punir. A Autoridade Nacional d
 
 Tratamento é toda operação realizada com dados pessoais, como as que se referem a:
 
-* acesso: possibilidade de comunicar-se com um dispositivo, meio de armazenamento, unidade de rede, memória, registro, arquivo, ou outros, visando receber, fornecer, ou eliminar dados
-* armazenamento: ação ou resultado de manter ou conservar em repositório um dados
-* arquivamento: ato ou efeito de manter registrado um dado, embora já tenha perdido a validade ou esgotada a sua vigência
-* avaliação: ato ou efeito de calcular valor sobre um ou mais dados
-* classificação: maneira de ordenar os dados conforme algum critério estabelecido
-* coleta: recolhimento de dados com finalidade específica
-* compartilhamento: comunicação, difusão, transferência internacional, interconexão de dados, pessoais por orgãos e entidades públicas no cumprimento de suas competências legais, ou entre esses e entes privados, reciprovamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados
-* comunicação: transmitir informações pertinentes às políticas de ação sobre os dados
-* controle: ação ou poder de regular, determinar ou monitorar as ações sobre o dados
-* difusão: ato ou efeito de divulgação, propagação, multiplicação dos dados
-* distrubuição: ato ou efeito de dispor de dados de acordo com algum critério estabeleecido
-* eliminação: ato ou efeito de excluir ou destruir dado do repositório
-* extração: ato de copiar ou retirar dados do repositório em que se encontrava
-* modificação: ato ou efeito de alteração do dado
-* processamento: ato ou efeito de processar dados
-* produção: criação de bens e de serviços a partir do tratamento de dados
-* recepção: ato de receber os dados ao final da transmissão
-* reprodução: cópia de dado preexistente obtido por meio de qualquer processo
-* transferência: mudança de dados de uma área de armazenamento para outra, ou para terceiro
-* transmissão: movimentação de dados entre dois pontos por meio de dispositivos elétricos, eletrônicos, telegráficos, telefônicos, radioelétricos, pneumáticos
-* utilização: ato ou efeito do aproveitamento dos dados entre outras
+* **acesso**: possibilidade de comunicar-se com um dispositivo, meio de armazenamento, unidade de rede, memória, registro, arquivo, ou outros, visando receber, fornecer, ou eliminar dados
+* **armazenamento**: ação ou resultado de manter ou conservar em repositório um dado
+* **arquivamento**: ato ou efeito de manter registrado um dado, embora já tenha perdido a validade ou esgotada a sua vigência
+* **avaliação**: ato ou efeito de calcular valor sobre um ou mais dados
+* **classificação**: maneira de ordenar os dados conforme algum critério estabelecido
+* **coleta**: recolhimento de dados com finalidade específica
+* **compartilhamento**: comunicação, difusão, transferência internacional, interconexão de dados, pessoais por orgãos e entidades públicas no cumprimento de suas competências legais, ou entre esses e entes privados, reciprovamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados
+* **comunicação**: transmitir informações pertinentes às políticas de ação sobre os dados
+* **controle**: ação ou poder de regular, determinar ou monitorar as ações sobre o dados
+* **difusão**: ato ou efeito de divulgação, propagação, multiplicação dos dados
+* **distrubuição**: ato ou efeito de dispor de dados de acordo com algum critério estabelecido
+* **eliminação**: ato ou efeito de excluir ou destruir dado do repositório
+* **extração**: ato de copiar ou retirar dados do repositório em que se encontrava
+* **modificação**: ato ou efeito de alteração do dado
+* **processamento**: ato ou efeito de processar dados
+* **produção**: criação de bens e de serviços a partir do tratamento de dados
+* **recepção**: ato de receber os dados ao final da transmissão
+* **reprodução**: cópia de dado preexistente obtido por meio de qualquer processo
+* **transferência**: mudança de dados de uma área de armazenamento para outra, ou para terceiro
+* **transmissão**: movimentação de dados entre dois pontos por meio de dispositivos elétricos, eletrônicos, telegráficos, telefônicos, radioelétricos, pneumáticos
+* **utilização**: ato ou efeito do aproveitamento dos dados entre outras
 
-As atividades de tratamento de dados pessoais também devem observar os seguintes princípios (Art. 6)
+As atividades de tratamento de dados pessoais também devem observar os seguintes princípios (Art. 6), os quais determinam todo o âmbito de atuação do tratamento, são eles:
 
-* finalidade: o tratamento deve ser realizado para propósitos legítimos, específicos, explícitos e informados ao titular
-* adequação: o tratamento deve ser compatível com as finalidades informadas ao titular
-* necessidade: o tratamento deve estar limitado ao mínimo necessário para a realização das finalidades a que se destina
-* livre acesso: garantir aos titulares, a consulta facilitada e gratuita sobre a forma e a duração do tratemento e à integralidade de seus dados pessoais
-* qualidade dos dados: garantir aos titulares exatidão, clareza, relevância e atualização dos dados
-* transparência: garantir aos titulares informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento
-* segurança: utilizar medidas técncas e administrativas para proteção dos dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas que resultem na sua destruição, perda, alteração, comunicação ou difusão
-* prevensão: adotar medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais
-* não discriminação: impossibilitar a realização do tratamento de dados para fins discriminatórios, ilícitos ou abusivos
-* responsabilização e prestação de contas: o agente de tratamento deve demonstrar que adotou medidas eficazes e capazes de cumprir as normas de proteção de dados pessoais.
+* **finalidade**: o tratamento deve ser realizado **para propósitos legítimos**, **específicos**, **explícitos** e **informados ao titular**
+* **adequação**: o tratamento deve ser compatível com as finalidades informadas ao titular
+* **necessidade**: o tratamento deve estar limitado ao mínimo necessário para a realização das finalidades a que se destina
+* **livre acesso**: garantir aos titulares, a consulta facilitada e gratuita sobre a forma e a duração do tratamento e à integralidade de seus dados pessoais
+* **qualidade dos dados**: garantir aos titulares exatidão, clareza, relevância e atualização dos dados
+* **transparência**: garantir aos titulares informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento
+* **segurança**: utilizar medidas técncas e administrativas para proteção dos dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas que resultem na sua destruição, perda, alteração, comunicação ou difusão
+* **prevensão**: adotar medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais
+* **não discriminação**: impossibilitar a realização do tratamento de dados para fins discriminatórios, ilícitos ou abusivos
+* **responsabilização e prestação de contas**: o agente de tratamento deve demonstrar que adotou medidas eficazes e capazes de cumprir as normas de proteção de dados pessoais.
 
-### situações previstas na lei
+### Situações previstas na lei: As dez hipóteses de tratamento
 
-O que a Lei garante, em qualquer dessas hipóteses, é o equilíbrio entre a proteção de dados e a privacidade: seu objetivo é proteger a privacidade e, ao mesmo tempo, garantir o adequado fluxo de dados e informações, em proveito tanto do titular quanto do mercado e da economia digital. 
+**O que a Lei garante, em qualquer dessas hipóteses, é o equilíbrio entre a proteção de dados e a privacidade: seu objetivo é proteger a privacidade e, ao mesmo tempo, garantir o adequado fluxo de dados e informações, em proveito tanto do titular quanto do mercado e da economia digital.**
 
-Cada base legal de tratamento de dados pessoais será identificada pelo Controlador de acordo com a conveniência e a conformidade entre a finalidade do tratamento e os princípios gerais da Lei presentes em cada uma das hipóteses nela prescritas, apresentadas a seguir.
+As hipóteses de tratamento permitidas em conjunto com a finalidade do tratamento de dados conformam e tornam-se convenientes para o legal tratamento de dados pessoais.
 
-#### hipóteses de tratamento permitidas
-
-1. cumprimento de obrigação legal
+1. **cumprimento de obrigação legal**
    * se há uma previsão legal ou regulamentar no sentido de que os dados sejam tratados, essa base legal é bastante para que o controlador esteja coberto na execução do tratamento.
    * exemplos: entrega anual da declaração IRPF; recadastramento eleitoral com biometria; informação de doença infecto-contagiosa;
 2. execução de políticas públicas
@@ -148,7 +148,7 @@ Cada base legal de tratamento de dados pessoais será identificada pelo Controla
    * essa hipótese legal confere legitimidade ao uso que os agentes de tratamento façam dos dados tratados para atuação em defesa de seus interesses perante autoridades em processos administrativos ou judiciais. A finalidade original do tratamento é uma (garantir a entrega e a contraprestação em um contrato, por exemplo). O uso para esta outra finalidade (defesa) encontra respaldo nessa base legal.
    * exemplo: um controlador utiliza os dados pessoais dos titulares para contestar uma ação judicial por violação, em caso de não integridade dos dados; um operador se utiliza dos dados para fazer prova em ação de reparação de danos por vazamento de informação pessoal.
 6. proteção da vida
-   * a base legal para o tratamento aqui é a proteção da vida do titular ou de terceiro. A privacidade de uma pessoa jamais será considerada um bem maior que a vida humana, sua ou de terceiros. Por essa razão, se alguem informa seus dados e circunstâncias (como tipo sanguíneo, numa circunstância de acidente), não está havendo "violação de dados".
+   * a base legal para o tratamento aqui é a proteção da vida do titular ou de terceiro. A privacidade de uma pessoa jamais será considerada um bem maior que a vida humana, sua ou de terceiros. Por essa razão, se alguém informa seus dados e circunstâncias (como tipo sanguíneo, numa circunstância de acidente), não está havendo "violação de dados".
    * exemplo: um médico manipula dados ou informações de um paciente para controle de quadro emergencial grave; alguém repassa o endereço de um suicida; alguém checa o histórico de vida pregressa de passageiros para identificar um terrorista em ataque.
 7. tutela da saúde
    * essa hipótese trata dos procedimentos para proteção da saúde executados por profissionais do setor ou entidades sanitárias.
@@ -166,18 +166,15 @@ Cada base legal de tratamento de dados pessoais será identificada pelo Controla
 ### Consentimento x Consenso / Interesse Legítimo
 
 **Um consentimento é uma atitude inequívoca em relação à determinada realidade**, emitida unilateralmente por parte de quem detém o direito a uma determinada informação. 
-**Há consentimento** de toda ordem no mundo dos negócios, no mundo dos contatos. 
+**Há consentimento** de toda ordem no mundo dos negócios, no mundo dos contratos. 
 Já **o consenso é a anuência em formato bilateral a respeito de um dado objeto**, de ajuste entre as partes. 
 
-Se você tem um contrato com alguém, você vai ter ali um conjunto de detalhamentos daquele ajuste. Todos devem saber que a execução de um contrato é uma das hipóteses de tratamento de dados pessoais em termos de LGPD. 
+Se se tem um contrato com alguém, tem-se um conjunto de detalhamentos daquele ajuste. Todos devem saber que a execução de um contrato é uma das hipóteses de tratamento de dados pessoais em termos de LGPD. 
 Estão no contrato, as obrigações entre as partes, os direitos de uma em face da outra, os detalhes sobre a execução, as penalidades decorrentes do descumprimento de determinadas obrigações, o tempo de duração, o modo como os dados vão ser tratados, todo esse conjunto de ajustes compõem o contrato. 
 **E o consenso é um desses elementos**, porque o contrato não persiste se não houver uma vontade de parte a parte, formalizando aquele determinado ajuste. Essa é a diferença básica entre consenso e consentimento.
 
 **O legítimo interesse** é a mais fluida e controvertida das bases legais de tratamento. Legítimo interesse é a base legal utilizável para aqueles casos em que ao menos um interesse legítimo esteja em evidência: o do agente de tratamento, o do titular ou de um terceiro.
 **Legitimidade é uma palavra menos subjetiva do que parece**. Muita gente entende que essa é a dificuldade da base legal. Não, a legitimidade não é difícil de compreender: **sempre que um agente de tratamento pensar em sustentar a coleta dos dados que vai tratar - em nome do seu legítimo interesse - terá que verificar, acima de tudo, se esse legítimo interesse abriga, de alguma forma, a legítima expectativa do titular do outro lado**. 
-
-Por exemplo, eu presto serviço de help desk e para prestar esse serviço preciso saber, digamos: nome, CPF, a cidade de residência do titular. São elementos necessários à prestação dos  serviços. Olhando pelo lado do titular, é razoável imaginar que a sua legítima expectativa comporte essa necessidade. **Mas se eu peço, além disso, renda, prole, padrão de consumo, endereço físico, não é razoável pensar que isso atenda ao legítimo interesse**. Parece mais, nesse caso, que nós temos aí uma outra finalidade obscura, desvalorizando então, o princípio da adequação, que é um princípio importante na
-LGPD.
 
 ### dados pessoais sensívels
 
@@ -189,7 +186,7 @@ Dados pessoais sensíveis são sobre:
 * dados referentes à saúde, à vida ou orientação sexual, 
 * dados genéricos ou biométricos, quando vinculados a uma pessoa natural
 
-Em geral: caso expostos ou compartilhados, pode causar impacto na vida pessoal ou profissional. A sensibilidade reside tanto no enorme potencial de lesividade desses dados, quanto no interesse que suscitam para os negócios.
+Em geral: caso expostos ou compartilhados, podem causar impacto pessoal ou profissional. A sensibilidade reside tanto no enorme potencial de lesividade desses dados, quanto no interesse que suscitam para os negócios.
 
 São oito hipóteses previstas na lei:
 1. mediante consentimento para finalidades específicas
@@ -203,7 +200,7 @@ São oito hipóteses previstas na lei:
 
 **As hipóteses de tratamento de Dados Sensíveis são mais restritas que a de Dados Pessoais, sendo excluídos "Execução de Contrato", "Interesse Legítimo" e "Proteção ao Crédito".**
 
-A lei veda:
+**A lei veda**:
 * pelas operadoras de planos privados de assistência á saúde o tratamento de dados de saúde para a prática de seleção de riscos na contratação de qualquer modalidade;
 * pelos controladores de dados pessoais sensíveis referentes à saude é vedado o compartilhamento ou comunicação com o objetivo de obter vantagem econômica
   * exceto em serviços na área da saúde, assistência farmacêutica, assistência à saúde (diagnósticos e terapias), mas sempre em benefício dos titulares dos dados
@@ -212,21 +209,16 @@ A lei veda:
 
 #### Tratamento de dados pessoais sensíveis
 
-Dados pessoais sensíveis são aqueles que ostentam maior carga de lesividade ou maior risco de dano ao direito do titular. Estão incluídos aqui as opções político-filosóficas, as opções políticas, sindicais, as filiações a ideais sindicais ou  políticas, as opções sexuais, a biometria, entre outros.
+Dados pessoais sensíveis são aqueles que ostentam **maior carga de lesividade ou maior risco de dano** ao direito do titular. Estão incluídos aqui as opções político-filosóficas, as opções políticas, sindicais, as filiações a ideais sindicais ou  políticas, as opções sexuais, a biometria, entre outros.
 
 No caso dos dados pessoais sensíveis, o legislador foi mais arrojado em relação à proteção do titular. Em matéria de dados pessoais sensíveis, **há apenas duas hipóteses: o consentimento - e não havendo consentimento sete outras possibilidades, todas excepcionais, e quase todas essas sete possibilidades estão contidas entre as dez possibilidades de tratamento original**. 
-Apenas a prevenção à fraude está presente somente aqui, nos dados sensíveis, mas as demais, as outras seis estão presentes entre aquelas 10 hipóteses de tratamento. Mas aqui sim, como uma exceção ao consentimento. Porque? Porque o dado pessoal sensível, como nós dissemos, tem uma carga maior de risco, uma possibilidade maior de lesividade aos direitos e aos interesses do titular.
+Apenas **a prevenção à fraude está presente somente aqui**, nos dados sensíveis, mas as demais, as outras seis estão presentes entre aquelas 10 hipóteses de tratamento. Mas aqui sim, como uma exceção ao consentimento. Porque? Porque o dado pessoal sensível, como nós dissemos, tem uma carga maior de risco, uma possibilidade maior de lesividade aos direitos e aos interesses do titular.
 
 #### dados de crianças e adolescentes
 
-Há regimes diferentes para crianças e adolescentes.
-
-Criança é a pessoa com idade de até doze anos incompletos, e adolescente é aquela entre doze e dezoito anos de idade (Estatuto da Criança e Adolescente, Art. 2º).
-
-O tratamento de dados pessoais de crianças e adolescentes, naqueles casos em que **a base legal seja o consentimento**, deve ser realizado **com o consentimento específico e em destaque emitido por pelo menos um dos pais ou pelo responsável legal**. 
+Há regimes diferentes para crianças e adolescentes. Criança é a pessoa com idade de até doze anos incompletos, e adolescente é aquela entre doze e dezoito anos de idade (Estatuto da Criança e Adolescente, Art. 2º). O tratamento de dados pessoais de crianças e adolescentes, naqueles casos em que **a base legal seja o consentimento**, deve ser realizado **com o consentimento específico e em destaque emitido por pelo menos um dos pais ou pelo responsável legal**. 
 
 No tratamento de dados de crianças e adolescentes com fundamento **em outras bases legais**, **as restrições gerais do Estatuto e do Código Civil prevalecem em relação ao menor de idade**. Por exemplo: 
-
 * Na execução de contrato o menor deve ser representado por seu responsável;
 * Nos tratamentos por força de Lei devem ser respeitadas as condições específicas no tocante a menores; 
 * No caso de legítimo interesse, a legítima expectativa a ser avaliada deve levar em conta o ponto de vista do representante do menor, enquanto tal.
@@ -242,59 +234,45 @@ Outra crítica que se faz é que a verificação da veracidade desse consentimen
 Na nossa Lei isso ficou tratado pelo critério do “razoável esforço” por parte de quem é obrigado a identificar se há esse consentimento paterno. 
 Já os idosos não têm um tratamento diferenciado. A lei apenas prevê - e a ANPD tem entre suas atribuições - garantir que o tratamento desses dados de idosos seja efetuado de maneira simples, clara, acessível e adequada a sua compreensão.
 
-### Compartilhamento e transferência de dados
-
-
 ## Privacidade dos dados
 
 Todos os agentes de tratamento, ao lidar com dados pessoais, devem garantir sempre que possível e nas situações previstas na lei, **a segurança e a privacidade dos dados**.
 
 * **Privacy by design**: é o emprego de mecanismos e soluções de privacidade **durante todo o ciclo de vida do desenvolvimento do sistema** ou da **organização dos serviços em que os dados serão tratados**.
-* **privacy by default**: é a obrigatoriedade de que todas essas ferramentas estejam acionadas como padrão e que as medidas destinadas a garantir privacidade ao Titular não contradigam a lógica de padrão, ou seja, **não deve haver prevalência dos interesses dos agentes de tratamento sobre os interesses dos titular dos dados tratados**.
+* **privacy by default**: é a obrigatoriedade de que todas essas ferramentas estejam acionadas como padrão e que as medidas destinadas a garantir privacidade ao Titular não contradigam a lógica de padrão, ou seja, **não deve haver prevalência dos interesses dos agentes de tratamento sobre os interesses do titular dos dados tratados**.
 
 Estabelecer como **configuração padrão a maior privacidade possível ao titular dos dados**, ou seja, **em duas situações ambíguas**, **prevalece sempre a situação que melhor atenda aos interesses do titular dos dados**.
 
-Nesse sentido: devem, os agentes de tratamento, **desde a concepção do produto ou do serviço**, até a sua execução, adotar medidas de segurança, técnicas ou administrativas, a fim de:
-* proteger os dados pessoais de acessos não autorizados 
-* e de situações acidentais
-* ou ilícitas de destruição,
-* perda, 
-* alteração, comunicação ou qualquer forma de tratamento inadequada ou ilícita (Art. 46, &2).
+**Nesse sentido: devem, os agentes de tratamento, **desde a concepção do produto ou do serviço**, até a sua execução, adotar medidas de segurança, técnicas ou administrativas, a fim de proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequada ou ilícita (Art. 46, &2).**
 
 ### Equilíbrio entre tratamento e segurança dos dados
 
-Tanto é importanto proteger o dado pessoal quanto é importante a economia digital funcionar. O tráfego, o circuito da economia digital precisa funcionar adequandamente.
-É assim também em segurança da informação: ninguém busca uma confidencialidade a qualquer custo. EM SI, é buscado uma confidencialidade com disponibilidade, integridade e autoria da informação porque a informação precisa circular.
-Na LGPD: é preciso que a informação tanto seja protegida, que o dado
-pessoal seja protegido, mas que a economia digital, os negócios, enfim, as relações
-interpessoais funcionem adequadamente
+**Tanto é importanto proteger o dado pessoal quanto é importante a economia digital funcionar. O tráfego, o circuito da economia digital precisa funcionar adequandamente.** Na LGPD: é preciso que a informação tanto seja protegida, que o dado pessoal seja protegido, mas que a economia digital, os negócios, enfim, as relações interpessoais funcionem adequadamente
 
 ### Segurança da informação
 
-A privacidade e o tratamento de dados pessoais deve alinhar-se com os domínios (i) da segurança da informação, (ii) das boas práticas e (iii) da governança de privacidade.
+A privacidade e o tratamento de dados pessoais devem alinhar-se com os domínios da segurança da informação, das boas práticas e da governança de privacidade.
 
 #### segurança da informação
 
-Segurança da informação é um conjunto de técnicas relacionadas à informação de tal modo que busque garantir os seguintes atributos: confidencialidade, disponibilidade, integridade e autoria (ou não repúdio)
-
-**Uma informação guardada a sete chaves em um baú de aço no fundo do mar abissal pode até parecer segura, mas não constitui "informação" em si mesma!**
+Segurança da informação é um conjunto de técnicas relacionadas à informação de tal modo que busque garantir os seguintes atributos: **confidencialidade**, **disponibilidade**, **integridade** e **autoria** (ou não repúdio)
 
 Deve-se controlar adequadamente os atributos acima:
 
-* confidencialidade: limitar o acesso tão somente às entidade legítimas, as que são autorizadas. Assim, o acesso a dados pessoais por entidades ou pessoas não autorizadas configura-se como violação de segurança desses dados, além de incidente de segurança.
-* disponibilidade: estar pronta para o uso na medida das necessidades
-* integridade: certeza de que não foi adulterada
-* autoria: certeza de que não foi produzida por outrem e certeza de que foi produzida por seu verdadeiro autor
+* **confidencialidade**: limitar o acesso tão somente às entidades legítimas, as que são autorizadas. Assim, o acesso a dados pessoais por entidades ou pessoas não autorizadas configura-se como violação de segurança desses dados, além de incidente de segurança.
+* **disponibilidade**: estar pronta para o uso na medida das necessidades
+* **integridade**: certeza de que não foi adulterada
+* **autoria**: certeza de que não foi produzida por outrem e certeza de que foi produzida por seu verdadeiro autor
 
 Outras características estendidas:
 
-* Irretratabilidade ou não repúdio - impossibilidade de se negar autoria (provar) sobre a execução de transação
-* Privacidade - manter anônimo o usuário
-* Legalidade - esteja aderente à legislação pertinente
-* Auditoria - capacidade de auditar tudo o que foi realizado pelos usuários
-* Autenticação - processo de identificação e reconhecimento, ou seja, é de fato quem alega ser
-* Autenticidade - garantia de que a informação é proveniente da fonte anunciada (origem) e que não foi alvo de mutações ao longo de um processo
-* Autorização ou consentimento - concessão livre, informada e inequívoca pelo titular para acesso de pessoas ou entidades autorizadas e capacitadas para o uso adequado e tratamento de seus dados pessoais, para uma ou mais finalidades determinadas
+* **Irretratabilidade ou não repúdio**: impossibilidade de se negar autoria (provar) sobre a execução de transação
+* **Privacidade**: manter anônimo o usuário
+* **Legalidade**: esteja aderente à legislação pertinente
+* **Auditoria**: capacidade de auditar tudo o que foi realizado pelos usuários
+* **Autenticação**: processo de identificação e reconhecimento, ou seja, é de fato quem alega ser
+* **Autenticidade**: garantia de que a informação é proveniente da fonte anunciada (origem) e que não foi alvo de mutações ao longo de um processo
+* **Autorização ou consentimento**: concessão livre, informada e inequívoca pelo titular para acesso de pessoas ou entidades autorizadas e capacitadas para o uso adequado e tratamento de seus dados pessoais, para uma ou mais finalidades determinadas
 
 Os domínios de segurança da informação diferem entre os modelos e frameworks disponíveis, mas de modo geral estão relacionados às seguintes rubricas:
 
@@ -304,7 +282,7 @@ Os domínios de segurança da informação diferem entre os modelos e frameworks
 4. Gestão de Continuidade do Negócio
 5. Segurança de Comunicação e Infraestrutura de Rede (incluindo controle de acesso e gestão de identidade)
 6. Operações de segurança (incluindo tratamento de incidentes, recuperação de desastres, forense computacional)
-7. Segurança de Dados (incluindo Criptografia) e
+7. Segurança de Dados (incluindo Criptografia)
 8. Desenvolvimento Seguro.
 
 #### Boas Práticas
@@ -322,11 +300,7 @@ As boas práticas não são uma rúbrica subjetiva, mas são determinadas por pr
 
 #### Governança de Privacidade
 
-Ter governança significa estabelecer um modelo de funcionamento que garanta direcionamento, comunicação, clareza de papéis, conhecimento geral do negócio e responsabilidade proativa (accountability).
-
-Implantar governança significa eliminar o espaço para a fala dos maus gestores que, em passado recente (escândalos da Enron, da Arthur Andersen e outros), quando interpelados sobre o porquê daquele desmando identificado, respondiam “eu não sabia! Quem cuidava disso eram os contadores, ou os departamentos financeiros”.
-
-**Onde há governança não há espaço para o “eu não sabia”.** **Accountability não é moda passageira, mas constitui verdadeiro fim a ser perseguido em qualquer modelo conduzido por adultos responsáveis**.
+**Governança significa** estabelecer um modelo de funcionamento que garanta **direcionamento**, **comunicação**, **clareza de papéis**, **conhecimento geral do negócio** e **responsabilidade proativa** (**accountability**). **Onde há governança não há espaço para o “eu não sabia”.** **Accountability não é moda passageira, mas constitui verdadeiro fim a ser perseguido em qualquer modelo conduzido por adultos responsáveis**.
 
 * Diretriz de Segurança Lógica (políticas de senha, sistemas de autenticação de usuário, programa de detecção de vírus);
 * Normas de Classificação, Anonimização e Criptografia da Informação;
@@ -343,19 +317,13 @@ Implantar governança significa eliminar o espaço para a fala dos maus gestores
 
 #### Vazamento ou violação de Dados
 
-O controlador deverá **comunicar tanto ao titular quanto à ANPD sobre a ocorrência de algum incidente de segurança** que venha a resultar em risco ou dano relevante ao titular. 
-
-“A LGPD é uma legislação, também, para proteção de patrimônio e de reputação” (Patrícia Peck).
-
-Cabe ao encarregado designado pelo Controlador, em situações de violação de segurança ou vazamento de dados, implementar procedimentos ou práticas de segurança da informação/segurança cibernética, políticas e programa PD&D, que implicam notificar a diretoria da organização, a área de comunicação e inclusive solicitar forense computacional.
-
-**Essa comunicação será devida nos casos em que dados pessoais tenham vazado, acidental ou ilicitamente, a destinatários não autorizados, ou quando fiquem temporária ou permanentemente indisponíveis, ou ainda quando sejam alterados.**
+O controlador deverá **comunicar tanto ao titular quanto à ANPD sobre a ocorrência de algum incidente de segurança** que venha a resultar em risco ou dano relevante ao titular. “A LGPD é uma legislação, também, para proteção de patrimônio e de reputação” (Patrícia Peck). Cabe ao encarregado designado pelo Controlador, em situações de violação de segurança ou vazamento de dados, implementar procedimentos ou práticas de segurança da informação/segurança cibernética, políticas e programa PD&D, que implicam notificar a diretoria da organização, a área de comunicação e inclusive solicitar forense computacional. **Essa comunicação será devida nos casos em que dados pessoais tenham vazado, acidental ou ilicitamente, a destinatários não autorizados, ou quando fiquem temporária ou permanentemente indisponíveis, ou ainda quando sejam alterados.**
 
 #### Responsabilidades
 
 Caso o tratamento de dados pessoais não ocorra de acordo com a LGPD, quem será responsabilizado?
 
-Conforme o caso, tanto o controlador quanto o operador poderão responder conjuntamente ou individualmente no âmbito administrativo, sofrendo as sanções impostas pela Autoridade de forma individual ou articulada.
+Conforme o caso, **tanto o controlador quanto o operador poderão responder conjuntamente ou individualmente no âmbito administrativo**, sofrendo as sanções impostas pela Autoridade de forma individual ou articulada.
 
 ##### Sanções Administrativas
 
@@ -394,7 +362,7 @@ https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/decreto/d9637.htm (pol�
 
 ### Organização da empresa e implementação da LGPD
 
-Não há regras específicas para as fases de implementação da LGPD, a ANPD, quando estiver operano, não quer saber como a empresa implementou as fases da LGPD, mas quer saber se está implementada e pronto.
+Não há regras específicas para as fases de implementação da LGPD, a ANPD, quando estiver operando, não quer saber como a empresa implementou as fases da LGPD, mas quer saber se está implementada e pronto.
 
 #### Modelo POIGA, um exemplo baseado na SERPRO
 
